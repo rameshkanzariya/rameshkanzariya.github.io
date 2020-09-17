@@ -269,7 +269,7 @@ filter: drop-shadow(1px 1px 1px rgb(0 0 0 / 36%));}
     display: none;
 }
 body.mobile-open .left.demo {
-    background: #041230;
+    background: #041230;border: navajowhite;
 }
 }
 @media (max-width:991px) {
